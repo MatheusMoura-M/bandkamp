@@ -1,4 +1,7 @@
-# M5 - BandKamp Generic View
+# BandKamp Generic View
+
+<h3><strong>Proposta:</strong></h3>
+<p>Nesse projeto foi adequado um sistema usando Generic Views, Model Serializer e Postgres.</p>
 
 ## Instalação dos pacotes de teste
 
